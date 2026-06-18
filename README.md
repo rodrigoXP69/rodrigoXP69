@@ -25,7 +25,7 @@
 <h2 align="center">🔥 Contribution Streak:</h2>
 <div align="center">
 <a href="https://github.com/RodrigoXP69">
-<img height="160em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=MikaelGois&theme=dark&hide_border=true&include_all_commits=true&count_private=true" style="max-width:100%;">
+<img height="160em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=RodrigoXP69&theme=dark&hide_border=true&include_all_commits=true&count_private=true" style="max-width:100%;">
 </a>
 </div>
 
