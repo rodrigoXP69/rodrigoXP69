@@ -5,7 +5,7 @@
 
 <p align="center">Olá! Meu nome é <b>Rodrigo</b>, sou discente no curso de Ciência da Computação - IFS e aqui você você encontrará alguns dos meus projetos. </p>
 
-<p align="center">Atualmente estou estudando Python, porém já escrevi um pouco em HTML e CSS. Tenho interesse em Inteligência Artificial e gosto de traquinar com eletrônica. Devido ao meu interesse por diferentes tópicos de tecnologia, é possível que apareça outras coisas além de código por aqui.</p>
+<p align="center">Atualmente estou estudando Python e java, porém já escrevi um pouco em HTML e CSS. Tenho interesse em Inteligência Artificial e gosto de traquinar com eletrônica. Devido ao meu interesse por diferentes tópicos de tecnologia, é possível que apareça outras coisas além de código por aqui.</p>
 
 <h2 align="center">💻 Tech Stack:</h2>
 
